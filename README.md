@@ -40,7 +40,7 @@ I have a degree in Systems Analysis and Development and I am passionate about pr
 
 <p align="center">
 <a href="https://github.com/gelbcke">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbcke&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbcke&layout=compact&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-gelbcke.vercel.app/api?username=gelbcke&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-gelbcke.vercel.app/api/top-langs/?username=gelbcke&layout=compact&theme=github_dark&count_private=true&hide_border=true"/>
 </a>
 </p>
