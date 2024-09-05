@@ -24,11 +24,6 @@
 
 ***
 ### Hi there 👋
-My name is Ney Gelbcke Junior. I've 32 years old and currently live in Paraná, Brazil. 
-
-I have a degree in Systems Analysis and Development and I am passionate about programming in **Laravel**.
-
-## Personal Info
 - 🔭 I’m currently working on personal stuffs only;
 - 📫 How to reach me: <a href="mailto:juniorgelbcke@gmail.com">juniorgelbcke@gmail.com</a>;
 
