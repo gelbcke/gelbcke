@@ -16,26 +16,10 @@
     <a target='_blank' href="https://instagram.com/gelbcke_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>  
-    <a target='_blank' href="https://dev.to/gelbcke">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>   
 </div>
 
 
 ***
 ### Hi there 👋
-- 🔭 I’m currently working on personal stuffs only;
 - 📫 How to reach me: <a href="mailto:juniorgelbcke@gmail.com">juniorgelbcke@gmail.com</a>;
 
-<br> 
-
-***
-
-<br>
-
-<p align="center">
-<a href="https://github.com/gelbcke">
-  <img height="180em" src="https://github-readme-stats-gelbcke.vercel.app/api?username=gelbcke&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-gelbcke.vercel.app/api/top-langs/?username=gelbcke&layout=compact&theme=github_dark&count_private=true&hide_border=true"/>
-</a>
-</p>
